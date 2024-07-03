@@ -16,5 +16,4 @@ This project is a web scraping tool developed in Python that extracts football m
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/football-match-scraper.git
-   cd football-match-scraper
+   git clone https://github.com/MohamedTarek012/Web-Scraping-Tool-for-Football-Match-Details.git
