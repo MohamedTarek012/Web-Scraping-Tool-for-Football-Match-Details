@@ -12,8 +12,4 @@ This project is a web scraping tool developed in Python that extracts football m
 - **Programming Language**: Python
 - **Libraries**: `requests`, `BeautifulSoup`, `csv`, `os`
 
-## Installation
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/MohamedTarek012/Web-Scraping-Tool-for-Football-Match-Details.git
